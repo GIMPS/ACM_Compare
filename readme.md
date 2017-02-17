@@ -1,4 +1,4 @@
-# ACM Debug Tool. 
+# ACM Compare Tool 
 Automatically compare code output with brutal force code output.
 ****************************************************************
 1. Copy execution files of both debug code and brutal force code into "test" folder(create a new folder named "test" if it doens't exist).
